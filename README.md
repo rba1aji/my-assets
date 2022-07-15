@@ -5,4 +5,4 @@ i can use url from respective repo also, but since my repo is private i cant
 <br/>
 i can make the repo public but my api keys are public, so i cant
 <br/>
-i can make api keys private but i dont know how to use .env stuffs in stackblitz
+i can make api keys private but i dont know how to use .env stuffs in stackblitz, so i cant
